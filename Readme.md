@@ -15,5 +15,5 @@ http://localhost:4800/graphql
 }
 ```
 
-Edit Data
+Edit Data <br/>
 Edit Schema 
