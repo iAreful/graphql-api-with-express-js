@@ -17,3 +17,8 @@ http://localhost:4800/graphql
 
 Edit Data <br/>
 Edit Schema 
+
+
+- [x] Publish
+- [ ] no-code version
+- [ ] etc
